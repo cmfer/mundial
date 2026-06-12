@@ -46,7 +46,7 @@ Aseguraos de que en la tarea del campus virtual se entreguen los siguientes fich
 | `service.yaml` | Apartado 2 |
 | `.github/workflows/ci.yml` | Apartado 3 |
 
-Además, incluid las siguientes **capturas de pantalla** generadas en formato imagen. En cada captura debe verse claramente vuestro nombre de usuario:
+Además, incluid las siguientes **capturas de pantalla** generadas en formato imagen. En las capturas de Github Actions y DockerHub debe verse claramente vuestro nombre de usuario:
 
 1. **Docker  — captura de navegador con contenedor en ejecución mostrando la selección española** y del terminal con la salida del comando `docker ps`.
 2. **Kubernetes  — captura de navegador con contenedor en ejecución en el puerto del servicio mostrando la selección española** y del terminal con la salida de los comandos `kubectl get deploy` y `kubectl get svc`.
