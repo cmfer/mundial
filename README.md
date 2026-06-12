@@ -76,7 +76,7 @@ Antes de comenzar, ejecutad el script `import_images.bat` desde la raíz del pro
 import_images.bat
 ```
 
-Al finalizar el script podréis ver en la lista las imágenes `maven:3.9.9-eclipse-temurin-21` y `mundial2026:v1.0`.
+Al finalizar el script podréis ver en la lista las imágenes `maven:3.9.9-eclipse-temurin-21`.
 
 ---
 
