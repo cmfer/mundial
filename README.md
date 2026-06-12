@@ -48,8 +48,8 @@ Aseguraos de que en la tarea del campus virtual se entreguen los siguientes fich
 
 Además, incluid las siguientes **capturas de pantalla** generadas en formato imagen. En cada captura debe verse claramente vuestro nombre de usuario:
 
-1. **Docker  — captura de navegador con contenedor en ejecución** y del terminal con la salida del comando `docker ps`.
-2. **Kubernetes  — captura de navegador con contenedor en ejecución en el puerto del servicio** y del terminal con la salida de los comandos `kubectl get deploy` y `kubectl get svc`.
+1. **Docker  — captura de navegador con contenedor en ejecución mostrando la selección española** y del terminal con la salida del comando `docker ps`.
+2. **Kubernetes  — captura de navegador con contenedor en ejecución en el puerto del servicio mostrando la selección española** y del terminal con la salida de los comandos `kubectl get deploy` y `kubectl get svc`.
 3. **Docker Hub — repositorio de la imagen** con todos los tags generados (`main`, `sha-XXXXXXX`, `latest`).
 4. **GitHub Actions — Job 1 (`build-and-push`)** con todos los pasos completados en verde.
 5. **GitHub Actions — Job 2 (`deploy`)** con todos los pasos completados en verde.
